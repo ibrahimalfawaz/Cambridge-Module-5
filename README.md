@@ -136,12 +136,6 @@ scipy==1.17.1
 
 ---
 
-## Ethical Statement
-
-Race was statistically insignificant as a readmission predictor (Chi-squared p = 0.67–0.79) but was intentionally retained for fairness monitoring. Stratified performance evaluation by racial subgroup would be required before clinical deployment. The classification threshold should be determined through clinician and administrator input, not set unilaterally by data scientists.
-
----
-
 ## References
 
 1. Strack et al. (2014). Impact of HbA1c measurement on hospital readmission rates. *BioMed Research International*. https://doi.org/10.1155/2014/781670
